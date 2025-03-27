@@ -33,8 +33,8 @@ java -jar librarymanagement.jar
 
 ## 📌 Class Diagram
 
-![Library Management System](![image]((https://drive.google.com/file/d/1mWcM7XnrrDGYTkfBlmufMNlrOnfW4TN5/view?usp=sharing))
-)
+![Library Management System](https://drive.google.com/uc?export=view&id=1mWcM7XnrrDGYTkfBlmufMNlrOnfW4TN5)
+
 
 
 
